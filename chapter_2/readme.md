@@ -2,6 +2,7 @@ STRATIFIED RANDOM SAMPLING
 When completing analysis or research on a group of entities with similar characteristics, a researcher may find that the population size is too large for which to complete research. To save time and money, an analyst may take on a more feasible approach by selecting a small group from the population. The small group is referred to as a sample size, which is a subset of the population that is used to represent the entire population. A sample may be selected from a population through a number of ways, one of which is the stratified random sampling method.
 
 A stratified random sampling involves dividing the entire population into homogeneous groups called strata (plural for stratum). Random samples are then selected from each stratum.
+
 SOURCE: https://www.investopedia.com/terms/stratified_random_sampling.asp
 
 
@@ -23,6 +24,7 @@ The general procedure is as follows:
       c)  Fit a model on the training set and evaluate it on the test set
       d)  Retain the evaluation score and discard the model
   4.  Summarize the skill of the model using the sample of model evaluation scores
+  
 SOURCE: https://machinelearningmastery.com/k-fold-cross-validation/
 Cross validation allows you to get not only an estimate of the performance of your model, but also a measure of how precise this estimate is (i.e., its standard deviation).
 
