@@ -31,6 +31,7 @@ The general procedure is as follows:
   4.  Summarize the skill of the model using the sample of model evaluation scores
 
 SOURCE: https://machinelearningmastery.com/k-fold-cross-validation/
+
 Cross validation allows you to get not only an estimate of the performance of your model, but also a measure of how precise this estimate is (i.e., its standard deviation).
 
 
